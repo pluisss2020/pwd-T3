@@ -1,0 +1,10 @@
+Mejoras Sugeridas :
+1)En cms reemplazar la palabra tecnologia por topico
+2)En el menu principal si no existe la imagen del logo ó 
+  si no esta definido que no muestre nada
+3)Diseñar el sistema de permisos para front end y back end
+4)Implementar la seguridad en el cms (back end)
+5)Implementar un chat general
+6)Implementar un sistema de encuestas 
+7)Implementar un foro
+ 
